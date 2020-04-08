@@ -7,5 +7,6 @@ public class FirstGit {
     public static void main(String[] args) {
         log.error("git, let`s go! ");
         log.info("git add log: info ");
+        log.error(" git add log three");
     }
 }
