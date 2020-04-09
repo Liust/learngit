@@ -8,4 +8,7 @@ public class FirstGit {
         log.error("git, let`s go! ");
         log.info("git add log: info ");
     }
+    public void print(){
+    
+    }
 }
